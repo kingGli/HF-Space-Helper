@@ -38,3 +38,4 @@
 | [2026-08-10](https://github.com/kingGli/HF-Space-Helper/commits/bcdce48e03be708888481fc3b44f0a918ab11221/docs/index.html) |  |
 | [2026-08-10](https://github.com/kingGli/HF-Space-Helper/commits/e6e31c87499280df4bd92cd38cd4dfcb4fdcc09f/docs/index.html) |  |
 | [2026-08-10](https://github.com/kingGli/HF-Space-Helper/commits/e4d6f726c9dc6d054c8d77c3c0441d6f41c90091/docs/index.html) |  |
+| [2026-08-10](https://github.com/kingGli/HF-Space-Helper/commits/36a91e262643786aae50851d8e13f885195fa81e/docs/index.html) |  |
